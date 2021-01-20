@@ -1,0 +1,9 @@
+a o o o o o o o a o o o a o o o o
+o r o o o o o r o o o v o r o o o
+o o a o o o a o o o u o o o o o o
+o o o r o * o o o h o o o o o m o
+o o o o a o o o c o o o o o o o *
+3
+arara
+chuva
+aroma

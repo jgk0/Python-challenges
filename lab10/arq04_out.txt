@@ -1,0 +1,28 @@
+----------------------------------------
+Lista de Palavras
+----------------------------------------
+Palavra: cavalo
+Ocorrencias: 2
+----------------------------------------
+Palavra: cachorro
+Ocorrencias: 1
+----------------------------------------
+Palavra: gato
+Ocorrencias: 1
+----------------------------------------
+Palavra: coelho
+Ocorrencias: 1
+----------------------------------------
+C A V A L O y
+A r j f n s z
+C h w r g z b
+H b a m v g n
+O j n G C p a
+R d k f A o j
+R c c z V T a
+O t u s * n O
+h v w j L H b
+j l d g * y d
+p b x E y n a
+q j O l b g u
+d C u t n i g

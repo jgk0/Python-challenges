@@ -1,0 +1,28 @@
+----------------------------------------
+Lista de Palavras
+----------------------------------------
+Palavra: fazenda
+Ocorrencias: 1
+----------------------------------------
+Palavra: cidade
+Ocorrencias: 2
+----------------------------------------
+Palavra: estado
+Ocorrencias: 2
+----------------------------------------
+Palavra: estrela
+Ocorrencias: 1
+----------------------------------------
+Palavra: continente
+Ocorrencias: 0
+----------------------------------------
+s h F q g z a n k
+p t A s g r b t k
+u z Z v o x j g j
+w d E S T R * L A
+s * * * * D * t t
+u a D k A m n q c
+u e A * x l b z x
+f j * r s s h z y
+d * l h k k o s k
+t g o d u l u m w

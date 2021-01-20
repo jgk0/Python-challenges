@@ -1,0 +1,16 @@
+s h f q g z a n k
+p t a s g r b t k
+u z z v o x j g j
+w d e s t r * l a
+s * * * * d * t t
+u a d k a m n q c
+u e a * x l b z x
+f j * r s s h z y
+d * l h k k o s k
+t g o d u l u m w
+5
+fazenda
+cidade
+estado
+estrela
+continente

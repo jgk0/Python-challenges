@@ -1,0 +1,25 @@
+----------------------------------------
+Lista de Palavras
+----------------------------------------
+Palavra: abacaxi
+Ocorrencias: 2
+----------------------------------------
+Palavra: laranja
+Ocorrencias: 0
+----------------------------------------
+Palavra: manga
+Ocorrencias: 2
+----------------------------------------
+A p x p A z m s
+B v n g B u p a
+A v t s A b v q
+C m y f C h z p
+A t d k A y t a
+X o i a X a a t
+I r b u I k m f
+t h d k o b n d
+M o i w s p n b
+A u j M A N G A
+N k r e w v y z
+G a e m n y c l
+A c b z a z t d
