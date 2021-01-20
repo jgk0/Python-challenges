@@ -1,2 +1,2 @@
-# Python-challenges
-Some of the mc102 challenges solved
+# Desafios-pyhton
+Alguns dos desafios do mc102(unicamp) resolvidos
