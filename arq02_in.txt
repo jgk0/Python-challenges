@@ -1,9 +1,0 @@
-h f s k a
-d g r v r
-s a v j a
-q i p c e
-c z r u l
-3
-arara
-rapar
-radar
